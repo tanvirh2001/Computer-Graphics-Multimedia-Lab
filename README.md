@@ -1,0 +1,1 @@
+Direct Equation Algorithm
